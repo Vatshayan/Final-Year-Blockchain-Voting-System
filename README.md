@@ -9,12 +9,19 @@ Online voting is a trend that is gaining momentum and trend in modern society. I
 
 ### Key features of Blockchain Project :
 ❖ High Availability
+
 ❖ Verifiability
+
 ❖ Transparency
+
 ❖ Immutability
+
 ❖ Distributed Ledgers
+
 ❖ Decentralised
+
 ❖ Enhanced Security
+
 
 ## Application used for Project:
 1. Metmask Wallet
