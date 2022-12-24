@@ -57,4 +57,4 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 Mail/Message me for Projects Help 🙏🏻
 
-### Another Blockchain BLog System Project : https://github.com/Vatshayan/Decentrilized-Blockchain-Blog-System-Project
+### More Blockchain Projects : https://vatshayan.medium.com/top-3-blockchain-final-year-projects-e910c25403a4
