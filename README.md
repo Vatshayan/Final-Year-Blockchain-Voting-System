@@ -4,7 +4,7 @@
 
 ## Synopsis : [Click to View](https://github.com/Vatshayan/Final-Year-Blockchain-Voting-System/blob/main/E%20voting%20using%20Blockchain%20Synopsis1.pdf)
 
-![F81D36CE-1734-4FD0-8FE1-00997404C659_1_201_a](https://user-images.githubusercontent.com/28294942/159865599-41450cb5-2893-41b3-b458-5d449b39513c.jpeg)
+![BLOCKCHAIN1](https://user-images.githubusercontent.com/28294942/213798908-c278e128-43f3-4f17-b4e0-c2bcc778ab08.png)
 
 
 ## Abstract: 
